@@ -124,8 +124,6 @@ Bank_Loan_Applications.xlsx
 
 ## 🖥️ Dashboard Preview
 
-> *(Upload ảnh chụp màn hình dashboard vào thư mục `images/` và cập nhật link bên dưới)*
-
 ![Dashboard Preview](dashboard_preview_.png)
 
 ---
